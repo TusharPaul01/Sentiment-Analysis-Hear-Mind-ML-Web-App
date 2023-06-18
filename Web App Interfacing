@@ -1,4 +1,4 @@
-#Web App Interfacing Anvil by Tushar
+#Web App Interfacing (Anvil) by Tushar
 
 from ._anvil_designer import Form1Template
 from anvil import *
