@@ -1,4 +1,5 @@
-#Web App Interfacing : Anvil
+#Web App Interfacing Anvil by Tushar
+
 from ._anvil_designer import Form1Template
 from anvil import *
 import anvil.server
@@ -24,5 +25,7 @@ class Form1(Form1Template):
     if sentiment_analysis :
       self.label2.visible = True
       self.label2.text = "Score : ", str(sentiment_analysis*10)
-      
-    
+
+  def rich_text_4_show(self, **event_args):
+    """This method is called when the RichText is shown on the screen"""
+    pass
