@@ -23,6 +23,7 @@ Display results: Return the predicted sentiment back to the user interface and d
 Web App Link : https://wilted-left-quail.anvil.app/
 
 
+LICENCE : https://github.com/TusharPaul01/Sentiment-Analysis-Hear-Mind-ML-Web-App/blob/main/LICENSE
 
 LinkedIn ID : https://www.linkedin.com/in/tusharpaul2001/
 
