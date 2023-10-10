@@ -2,7 +2,7 @@
 Deep Learning model BERT of Neural Network has been implemented to find the sentiment using text &amp; then hosted on web app.
 
 Sentiment Analysis with BERT:
-BERT is a state-of-the-art deep learning model that utilizes a transformer architecture to understand and represent the contextual information of words in a text. It has achieved remarkable performance in various natural language processing tasks, including sentiment analysis. Sentiment analysis aims to determine the sentiment or emotional tone expressed in a given text.
+BERT is a state-of-the-art deep learning model that utilizes a transformer architecture to understand & represent the contextual information of words in a text. It has achieved remarkable performance in various natural language processing tasks, including sentiment analysis. Sentiment analysis aims to determine the sentiment or emotional tone expressed in a given text.
 Mood has been categorised into 5 levels : 1)Excellent 2)Good 3)Fine 4)Bad 5)Extremely Bad
 
 Model Implementation:
